@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roja Sharma</h1>
-<h3 align="center">I am Roja Sharma a recent graduate from Amity University Madhya Pradesh. I am proficient in Python and passionate about Artifical Intelligence and Machine Learning.</h3>
+<h3 align="center">Recent Computer Science graduate from Amity University, Gwalior, with hands-on experience in Python, AI, and Machine Learning. Completed an internship at DRDE–DRDO Gwalior on AI/ML-based virtual screening for drug discovery. Passionate about applying technology to real-world challenges and eager to contribute as a valuable team member.</h3>
 
 - 🌱 Skills **Python, Data Analytic, Power BI, Sql, Ms.Excel,Machine Learning,Generative AI,DSA,DBMS**
 
