@@ -10,7 +10,8 @@
    https://www.linkedin.com/in/roja-sharma-51b86b271/
 
    Languages and Tools:
-   css3 html5 java javascript mysql python excel powerbi sql
+   <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/91206f5d-db48-4794-b733-947edac0c973" />
+
 
    Roja280903
 
